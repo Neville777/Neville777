@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neville777
+- 👋 Hi, I’m @Neville
 - 👀 I’m interested in Everything Tech.
 - 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on open source projects.
