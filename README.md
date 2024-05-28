@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Neville
 - A fullstack Software Developer.
 - 👀 I’m interested in Everything Tech.
-- 🌱 I’m currently learning Next.js and Dart.
+- 🌱 I’m currently learning Project management.
 -  I’m looking to collaborate on open-source projects.
 
 <!---
