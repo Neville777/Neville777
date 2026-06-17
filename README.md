@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:5a5a5a&height=190&section=header&text=Neville%20James%20Achieng&fontColor=ffffff&fontSize=42&fontAlignY=42&animation=fadeIn" width="100%" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=190&section=header&text=Neville%20James%20Achieng&fontColor=ffffff&fontSize=42&fontAlignY=42&animation=fadeIn" width="100%" alt="banner" />
 </div>
 
 <p align="center">
@@ -68,7 +68,7 @@
 ## <img src="https://api.iconify.design/octicon/graph-16.svg?color=%23444444&height=22" />&nbsp; GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neville777&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=444444&text_color=767676&icon_color=444444&rank_icon=github" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Neville777&show_icons=true&hide_border=true&bg_color=00000000&title_color=444444&text_color=767676&icon_color=444444&rank_icon=github" alt="stats" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=Neville777&hide_border=true&background=00000000&stroke=cccccc&ring=444444&fire=444444&currStreakNum=333333&currStreakLabel=444444&sideNums=333333&sideLabels=444444&dates=999999" alt="streak" />
 </div>
